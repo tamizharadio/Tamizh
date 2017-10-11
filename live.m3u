@@ -1,0 +1,27 @@
+# Tamizh
+Tamizh Radio and free addons
+#EXTM3U
+
+#EXTINF:-1 group-title="Tamil TV",ADITHYA TV
+http://live-04.viewer.dacast.com/i/dclive_1@104142/master.m3u8
+
+#EXTINF:-1 group-title="Tamil TV",JAYA TV
+http://ch.channelsiptv.com/india_iptv234544/jayamaxindia/playlist.m3u8
+
+#EXTINF:-1 group-title="Tamil TV",RAJ TV
+http://ipsunvj.channelsiptv.com/sunvjpoint/sunINsource/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Tamil TV", SIRIPPOLI TV
+http://ipsunvj.channelsiptv.com/sunvjpoint/vijayINsource/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Tamil TV", STAR VIJAY TV
+http://smumcdnems02.cdnsrv.jio.com/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Vijay_hs.smil/.m3u8
+ 
+#EXTINF:-1 group-title="Tamil TV", STAR VIJAY UK TV
+http://ch.channelsiptv.com/india_iptv234544/sunmusicINDIA/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Tamil TV",Sun TV
+http://ch.channelsiptv.com/iptvlivee34543bbc/kalai/playlist.m3u8
+ 
+#EXTINF:-1 group-title="Tamil TV",SUN MUSIC TV
+http://ch.channelsiptv.com/iptvlivee34543bbc/isai/playlist.m3u8
